@@ -1,11 +1,12 @@
 # EXPLORING TORNADO DATA OF TENNESSEE (1950 - 2024) 
+![](png/National_Weather_Service-logo-A09022CDFB-seeklogo.com.png)
 
 ## A comprehensive breakdown of recorded Tennessee tornado data from sources such as The National Weather Service
 
 ## Table of Contents
 * [Motivation](#motivation)
 * [Data](#Data)
-* 
+* [Analytics](#analysis)
 * [Sources](#sources)
 
 
@@ -26,6 +27,13 @@ Simply put tornadoes are a natural phenomenon. Thanks to the combination of cold
 
 ### Data
 To answer the aformentioned questions, I gathered data from the Tennessean, National Weather Servcie, and the National Ocenanic & Atmospheric Administration (NOAA). All data has been converted to the currently used Ehanced fujita scale for the sake of uniformality and to refelct modern building standards
+
+
+### Analysis
+
+All tornadoes spotted from 1950 to 2024
+
+![](png/total_tornado_per_yearl.png)
 
 
 
